@@ -5,8 +5,8 @@
         <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
 
         <!-- bootstrap 4.5 css -->
-        <link rel="stylesheet" href="/css/bootstrap.css">
-        <link rel="stylesheet" href="/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/my/css/bootstrap.css">
+        <link rel="stylesheet" href="/my/css/bootstrap.min.css">
     </head>
     <body>
         <div class="container">
@@ -37,6 +37,6 @@
     </body>
 </html>
 <!--bootstrap 4.5 Javascript-->
-<script src="/js/jquery-3.6.0.js"></script>
-<script src="/js/bootstrap.js"></script>
-<script src="/js/bootstrap.min.js"></script>
+<script src="/my/js/jquery-3.6.0.js"></script>
+<script src="/my/js/bootstrap.js"></script>
+<script src="/my/js/bootstrap.min.js"></script>
