@@ -29,4 +29,4 @@
 
 <br>
 
-<a href="https://juniorprogram.tistory.com/57">Insert_notice_Repositories 설명 포스트</a>
+<a href="https://juniorprogram.tistory.com/57">Insert notice 설명 포스트</a>
